@@ -1,1 +1,1 @@
-# color-flipper
+Generates random background colors.
